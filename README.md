@@ -1,20 +1,24 @@
 # Roadmap
 ## The Awakening
-* Mainnet
-* Linux CLI Wallet
-* Mining
-* ANN Thread
-* Website
+* Mainnet [DONE]
+* Linux CLI Wallet [DONE]
+* Mining [DONE]
+* ANN Thread [DONE]
+* Website [DONE]
 
 ## The Gathering
-* Linux GUI Wallet
+* Windows CLI Wallet [DONE]
+* Linux GUI Wallet [DONE]
 * Windows GUI Wallet
 
 ## The Circle
 * Exchange
 * New Website
 * PR Campaign
+* Airdrop
 
 ## The Adoption
 * Contacting Merchants
-* Android App
+* Android Wallet
+* iOS Wallet
+* More Exchanges
